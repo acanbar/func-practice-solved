@@ -64,7 +64,6 @@ const getValueWithConditionTwo = (num1, num2) => {
   }
 }
 
-
 getValueWithConditionTwo(40, 40);
 getValueWithConditionTwo(20, 30);
 
