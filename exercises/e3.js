@@ -62,7 +62,7 @@ const getValueWithConditionTwo = (num1, num2) => {
   } else {
     return 2 * (num1 + num2);
   }
-}
+} 
 
 getValueWithConditionTwo(40, 40);
 getValueWithConditionTwo(20, 30);
